@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Solana address converter",
+  "name": "Solana address converter",
   "icons": [
     {
       "src": "favicon.ico",
